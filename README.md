@@ -7,4 +7,4 @@ C++ modules to understand the particularities of the language compared to C. Tim
 
 This proyect consists of 10 modules.
 
-ONGOIN.
+Ongoing.
